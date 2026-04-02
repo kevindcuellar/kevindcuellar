@@ -25,3 +25,11 @@ Tengo experiencia en análisis, modelado e interpretación de datos, así como e
 - Desarrollo backend e integración de servicios
 - Prácticas y exploraciones en inteligencia artificial
 - Proyectos enfocados en aprendizaje continuo y resolución de problemas reales
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevindcuellar/kevindcuellar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevindcuellar/kevindcuellar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kevindcuellar/kevindcuellar/output/pacman-contribution-graph.svg">
+</picture>
+
+###
