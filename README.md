@@ -8,12 +8,3 @@
   <img src="https://img.shields.io/badge/Automation-10B981?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-  <b style="color:#F59E0B;">Data Analyst</b>
-  <span style="color:#9CA3AF;"> || </span>
-  <b style="color:#38BDF8;">Backend Developer</b>
-  <span style="color:#9CA3AF;"> || </span>
-  <b style="color:#22C55E;">Automation</b>
-</p>
