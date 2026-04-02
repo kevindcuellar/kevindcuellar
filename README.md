@@ -29,7 +29,7 @@ Tengo experiencia en análisis, modelado e interpretación de datos, así como e
 ## Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/kevindcuellar/" target="_blank">
     <img src="https://api.devicons.dev.br/icon?icons=LinkedIn&size=48&theme=dark&perline=30" />
   </a>
   <a href="mailto:kevind.cuellar@outlook.com">
